@@ -1,0 +1,20 @@
+# Default, Defaults
+markdown: redcarpet
+highlighter: pygments # or rouge or null
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+# Jekyll Defaults
+title: pythoner_CG
+email: pythoner_CG@outlook.com
+description: timeline
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Where can people find your site?
+url: ""
+# When developing, set this ^ equal to whatever localhost you're using
+
+# Socail Media links
+# Use these to link users to your organization's social media sites
+twitter:
+facebook:
+google:
